@@ -31,10 +31,6 @@ public class Menu {
 				+ "TL" + "\nYemeğin ilk harfi: " + food2.getName().charAt(0));
 		
 		
-		Food food3 = new Food();
-		food3.
-		
-		
 		
 	}
 //	public static boolean vegan(boolean vegan, boolean notVegan) {
